@@ -12,6 +12,24 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.container{
+  color:red;
+  background-color:coral;
+  padding: 20px;
+
+}
+.person{
+  color:blue;
+  background-color: pink;
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+
+}
+.maa{
+  color:green;
+  background-color: cornflowerblue;
+}
 
 .App-header {
   background-color: #282c34;
